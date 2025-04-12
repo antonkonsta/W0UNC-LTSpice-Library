@@ -5,7 +5,7 @@ LINE Normal 23 25 -24 -25
 LINE Normal -96 -32 -36 -32
 LINE Normal 0 80 0 48
 LINE Normal -96 32 -36 32
-LINE Normal 96 0 48 0
+LINE Normal 128 0 48 0
 LINE Normal 0 -80 0 -48
 CIRCLE Normal 48 -48 -48 48
 TEXT 8 -72 Left 2 V+
@@ -13,7 +13,7 @@ TEXT 12 68 Left 2 V-
 TEXT 57 -20 Left 2 Vout
 TEXT -89 -47 Left 2 V1
 TEXT -89 20 Left 2 V2
-PIN 96 0 NONE 8
+PIN 128 0 NONE 8
 PINATTR PinName Vout
 PINATTR SpiceOrder 1
 PIN 0 80 NONE 8

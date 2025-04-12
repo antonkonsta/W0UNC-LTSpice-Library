@@ -1,0 +1,9 @@
+# Compessed files
+*.zip
+*.rar
+*.7zip
+
+# LTSpice Files
+*.log
+*.net
+*.raw
